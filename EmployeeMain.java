@@ -9,5 +9,8 @@ public class Main {
 		System.out.println("This is created with new branch feature-login5");
 		System.out.println("This is created with new branch feature-login7");
 		System.out.println("888This is created with new branch feature-login888");
+		
+		System.out.println("This is simply main method");
+		
     }
 }
